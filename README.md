@@ -37,10 +37,7 @@ By completing this course, I’ll develop hands-on skills in:
 
 | Challenge | Title        | Link      | Key Skill                               |
 | --------- | ------------ | --------- | --------------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. installing Terraform               |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. HCL basics                         |
-| 3         | Coming soon… | 📂 [Repo]() | e.g. updating/destroying infrastructure |
-| 4         | Coming soon… | 📂 Folder | e.g. HCL basics lab                     |
+| 1         | 🌍 Terraform HCL Basics Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-HCL-Basics-Lab/tree/main) | HCL configuration basics, identifying resource blocks, provider initialization, fixing argument errors, using local_file vs local_sensitive_file, running init/plan/apply/destroy, reading Terraform error messages |
 
 ---
 
