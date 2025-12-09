@@ -45,7 +45,7 @@ By completing this course, I’ll develop hands-on skills in:
 
 | Challenge | Title        | Link      | Key Skill                              |
 | --------- | ------------ | --------- | -------------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. using providers                   |
+| 1         | 🌍 Terraform Providers Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Providers-Lab/tree/main) | Provider initialization (terraform init), reading .tf resource blocks, inspecting .terraform.lock.hcl, adding new config files, creating resources with the local provider, identifying partner vs community providers |
 | 2         | Coming soon… | 📂 [Repo]() | e.g. configuration directory structure |
 | 3         | Coming soon… | 📂 [Repo]() | e.g. provider lab                      |
 | 4         | Coming soon… | 📂 Folder | e.g. multiple providers                |
