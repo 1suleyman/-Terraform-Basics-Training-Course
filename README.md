@@ -48,9 +48,9 @@ By completing this course, I’ll develop hands-on skills in:
 | 1         | 🌍 Terraform Providers Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Providers-Lab/tree/main) | Provider initialization (terraform init), reading .tf resource blocks, inspecting .terraform.lock.hcl, adding new config files, creating resources with the local provider, identifying partner vs community providers |
 | 2         | 🌍 Terraform Multiple Providers Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Multiple-Providers-Lab/tree/main) | Using multiple providers in one config, provider plugin installation, .terraform/providers inspection, creating local_file and random_pet resources, resolving lock-file errors, re-initializing Terraform after adding providers |
 | 3         | 🌍 Terraform Variables Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Variables-Lab/tree/main) | Terraform variable types, list indexing, map lookups, fixing invalid variable definitions, using variables inside resources, set(type) rules, running init/plan/apply with variable-driven configs |
-| 4         | Coming soon… | 📂 Folder | e.g. multiple providers                |
-| 5         | Coming soon… | 📂 Folder | e.g. multiple provider lab             |
-| 6         | Coming soon… | 📂 Folder | e.g. input variables overview          |
+| 4         | 🌍 Using Variables in Terraform Lab | 📂 [Repo](https://github.com/1suleyman/-Using-Variables-in-Terraform-Lab/tree/main) | Terraform variable types, list indexing, map lookups, fixing invalid variable definitions, using variables inside resources, set(type) rules, running init/plan/apply with variable-driven configs |
+| 5         | Coming soon… | 📂 [Repo]() | e.g. multiple provider lab             |
+| 6         | Coming soon… | 📂 [Repo]() | e.g. input variables overview          |
 
 ---
 
