@@ -49,7 +49,7 @@ By completing this course, I’ll develop hands-on skills in:
 | 2         | 🌍 Terraform Multiple Providers Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Multiple-Providers-Lab/tree/main) | Using multiple providers in one config, provider plugin installation, .terraform/providers inspection, creating local_file and random_pet resources, resolving lock-file errors, re-initializing Terraform after adding providers |
 | 3         | 🌍 Terraform Variables Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Variables-Lab/tree/main) | Terraform variable types, list indexing, map lookups, fixing invalid variable definitions, using variables inside resources, set(type) rules, running init/plan/apply with variable-driven configs |
 | 4         | 🌍 Using Variables in Terraform Lab | 📂 [Repo](https://github.com/1suleyman/-Using-Variables-in-Terraform-Lab/tree/main) | Terraform variable types, list indexing, map lookups, fixing invalid variable definitions, using variables inside resources, set(type) rules, running init/plan/apply with variable-driven configs |
-| 5         | Coming soon… | 📂 [Repo]() | e.g. multiple provider lab             |
+| 5         | 🕒 Terraform Resource Attributes Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Resource-Attributes-Lab/tree/main) | Inspecting resource attributes, referencing attributes (resource.type.name.attribute), using time_static timestamps, creating dependent local_file resources, using terraform show to view exported attributes |
 | 6         | Coming soon… | 📂 [Repo]() | e.g. input variables overview          |
 
 ---
