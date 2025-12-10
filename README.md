@@ -51,7 +51,7 @@ By completing this course, I’ll develop hands-on skills in:
 | 4         | 🌍 Using Variables in Terraform Lab | 📂 [Repo](https://github.com/1suleyman/-Using-Variables-in-Terraform-Lab/tree/main) | Terraform variable types, list indexing, map lookups, fixing invalid variable definitions, using variables inside resources, set(type) rules, running init/plan/apply with variable-driven configs |
 | 5         | 🕒 Terraform Resource Attributes Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Resource-Attributes-Lab/tree/main) | Inspecting resource attributes, referencing attributes (resource.type.name.attribute), using time_static timestamps, creating dependent local_file resources, using terraform show to view exported attributes |
 | 6         | 🔗 Terraform Resource Dependencies Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Resource-Dependencies-Lab/tree/main) | Implicit vs explicit dependencies, using depends_on, referencing attributes for implicit ordering, creating tls_private_key + local_file chains, safe apply/destroy of dependent resources |
-| 7         | Coming soon… | 📂 [Repo]() | e.g. intro to state                     |
+| 7         | 📤 Terraform Output Variables Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Output-Variables-Lab/tree/main) | Inspecting outputs, using terraform output, identifying provider/resource types, creating new outputs with value, running init/plan/apply to generate and expose values |
 
 ---
 
