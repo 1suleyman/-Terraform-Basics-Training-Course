@@ -68,7 +68,7 @@ By completing this course, I’ll develop hands-on skills in:
 | Challenge | Title        | Link      | Key Skill                                |
 | --------- | ------------ | --------- | ---------------------------------------- |
 | 1         | 🛠️ Terraform Commands & Validation Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Commands-Validation-Lab/tree/main) | Validating Terraform configs (terraform validate), fixing syntax & argument errors, understanding validate vs apply, formatting with terraform fmt, generating dependency graphs, inspecting providers with CLI tools, understanding provider plugin behavior |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. commands lab                        |
+| 2         | 🔄 Terraform Lifecycle Rules Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Lifecycle-Rules-Lab/tree/main) | lifecycle rules, create_before_destroy, prevent_destroy, keepers map, random resource regeneration logic, state inspection |
 | 3         | Coming soon… | 📂 Folder | e.g. mutable vs immutable infrastructure |
 
 
