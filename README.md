@@ -69,8 +69,9 @@ By completing this course, I’ll develop hands-on skills in:
 | --------- | ------------ | --------- | ---------------------------------------- |
 | 1         | 🛠️ Terraform Commands & Validation Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Commands-Validation-Lab/tree/main) | Validating Terraform configs (terraform validate), fixing syntax & argument errors, understanding validate vs apply, formatting with terraform fmt, generating dependency graphs, inspecting providers with CLI tools, understanding provider plugin behavior |
 | 2         | 🔄 Terraform Lifecycle Rules Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Lifecycle-Rules-Lab/tree/main) | lifecycle rules, create_before_destroy, prevent_destroy, keepers map, random resource regeneration logic, state inspection |
-| 3         | Coming soon… | 📂 Folder | e.g. mutable vs immutable infrastructure |
-
+| 3         | 📚 Terraform Data Sources Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Data-Sources-Lab/tree/main) | data sources (read-only), correct data syntax, attribute referencing, fixing invalid arguments, AWS EBS & S3 lookups |
+| 4         | Coming soon… | 📂 [Repo]() | e.g. setup AWS account       |
+| 5         | Coming soon… | 📂 [Repo]() | e.g. setup AWS account       |
 
 ---
 
