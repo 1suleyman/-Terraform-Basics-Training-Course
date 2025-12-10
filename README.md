@@ -63,11 +63,11 @@ By completing this course, I’ll develop hands-on skills in:
 
 ---
 
-### 🔹 Module 5: Working with Terraform
+### 🔹 Module 4: Working with Terraform
 
 | Challenge | Title        | Link      | Key Skill                                |
 | --------- | ------------ | --------- | ---------------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. main Terraform commands             |
+| 1         | 🛠️ Terraform Commands & Validation Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Commands-Validation-Lab/tree/main) | Validating Terraform configs (terraform validate), fixing syntax & argument errors, understanding validate vs apply, formatting with terraform fmt, generating dependency graphs, inspecting providers with CLI tools, understanding provider plugin behavior |
 | 2         | Coming soon… | 📂 [Repo]() | e.g. commands lab                        |
 | 3         | Coming soon… | 📂 Folder | e.g. mutable vs immutable infrastructure |
 
