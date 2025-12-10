@@ -55,14 +55,11 @@ By completing this course, I’ll develop hands-on skills in:
 
 ---
 
-### 🔹 Module 4: Terraform State
+### 🔹 Module 3: Terraform State
 
 | Challenge | Title        | Link      | Key Skill                               |
 | --------- | ------------ | --------- | --------------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. intro to state                     |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. purpose of state                   |
-| 3         | Coming soon… | 📂 Folder | e.g. state lab                          |
-| 4         | Coming soon… | 📂 Folder | e.g. considerations (security, locking) |
+| 1         | 📦 Terraform State Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-State-Lab/tree/main) | Understanding Terraform state, terraform.tfstate creation, state refresh behavior, inspecting state with terraform show, tracking resource attributes (IDs, IPs), JSON state structure |
 
 ---
 
