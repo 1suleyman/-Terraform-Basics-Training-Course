@@ -75,11 +75,11 @@ By completing this course, I’ll develop hands-on skills in:
 
 ---
 
-### 🔹 Module 6: Terraform with AWS
+### 🔹 Module 5: Terraform with AWS
 
 | Challenge | Title        | Link      | Key Skill                    |
 | --------- | ------------ | --------- | ---------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. AWS intro               |
+| 1         | ☁️ AWS CLI & IAM Lab (Using LocalStack) | 📂 [Repo](https://github.com/1suleyman/-AWS-CLI-IAM-Lab-Using-LocalStack-/tree/main) | AWS CLI basics, IAM users/groups/policies, LocalStack endpoints, permission inheritance, CLI config reading |
 | 2         | Coming soon… | 📂 [Repo]() | e.g. setup AWS account       |
 | 3         | Coming soon… | 📂 Folder | e.g. IAM overview            |
 | 4         | Coming soon… | 📂 Folder | e.g. IAM demo                |
