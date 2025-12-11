@@ -80,7 +80,7 @@ By completing this course, I’ll develop hands-on skills in:
 | Challenge | Title        | Link      | Key Skill                    |
 | --------- | ------------ | --------- | ---------------------------- |
 | 1         | ☁️ AWS CLI & IAM Lab (Using LocalStack) | 📂 [Repo](https://github.com/1suleyman/-AWS-CLI-IAM-Lab-Using-LocalStack-/tree/main) | AWS CLI basics, IAM users/groups/policies, LocalStack endpoints, permission inheritance, CLI config reading |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. setup AWS account       |
+| 2         | 🔐 IAM with Terraform Lab (Using LocalStack) | 📂 [Repo](https://github.com/1suleyman/-IAM-with-Terraform-Lab-Using-LocalStack-/tree/main) | Terraform IAM provisioning, LocalStack provider config, endpoint overrides, count-based user creation, variables |
 | 3         | Coming soon… | 📂 Folder | e.g. IAM overview            |
 | 4         | Coming soon… | 📂 Folder | e.g. IAM demo                |
 
