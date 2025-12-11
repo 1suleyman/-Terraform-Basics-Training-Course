@@ -71,7 +71,7 @@ By completing this course, I’ll develop hands-on skills in:
 | 2         | 🔄 Terraform Lifecycle Rules Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Lifecycle-Rules-Lab/tree/main) | lifecycle rules, create_before_destroy, prevent_destroy, keepers map, random resource regeneration logic, state inspection |
 | 3         | 📚 Terraform Data Sources Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Data-Sources-Lab/tree/main) | data sources (read-only), correct data syntax, attribute referencing, fixing invalid arguments, AWS EBS & S3 lookups |
 | 4         | 🔢 Terraform count and for_each Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-count-and-for_each-Lab/tree/main) | dynamic resource creation, count.index, each.key/value, list vs map instances, unique filenames, looping over variables effectively |
-| 5         | Coming soon… | 📂 [Repo]() | e.g. setup AWS account       |
+| 5         | 📐 Terraform Version Constraints Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Version-Constraints-Lab/tree/main) | provider version pinning, version operators (=, >=, <=, ~>, !=), excluding versions, lock file inspection |
 
 ---
 
