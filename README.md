@@ -82,7 +82,7 @@ By completing this course, I’ll develop hands-on skills in:
 | 1         | ☁️ AWS CLI & IAM Lab (Using LocalStack) | 📂 [Repo](https://github.com/1suleyman/-AWS-CLI-IAM-Lab-Using-LocalStack-/tree/main) | AWS CLI basics, IAM users/groups/policies, LocalStack endpoints, permission inheritance, CLI config reading |
 | 2         | 🔐 IAM with Terraform Lab (Using LocalStack) | 📂 [Repo](https://github.com/1suleyman/-IAM-with-Terraform-Lab-Using-LocalStack-/tree/main) | Terraform IAM provisioning, LocalStack provider config, endpoint overrides, count-based user creation, variables |
 | 3         | 🪣 AWS S3 Buckets & Objects with Terraform Lab | 📂 [Repo](https://github.com/1suleyman/-AWS-S3-Buckets-Objects-with-Terraform-Lab/tree/main) | S3 bucket inspection, DNS-valid naming, terraform state reading, aws_s3_object uploads, fixing deprecated resources |
-| 4         | Coming soon… | 📂 [Repo]() | e.g. IAM demo                |
+| 4         | 🍃 DynamoDB with Terraform Lab | 📂 [Repo](https://github.com/1suleyman/-DynamoDB-with-Terraform-Lab/tree/main) | DynamoDB table schema, primary/hash key setup, attribute types (S/N/B), terraform state inspection, table item insertion |
 
 
 ---
