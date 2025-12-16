@@ -87,11 +87,11 @@ By completing this course, I’ll develop hands-on skills in:
 
 ---
 
-### 🔹 Module 7: Remote State
+### 🔹 Module 6: Remote State
 
 | Challenge | Title        | Link      | Key Skill                     |
 | --------- | ------------ | --------- | ----------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. remote state and locking |
+| 1         | ☁️ Terraform Remote State Lab (Using MinIO S3 Backend) | 📂 [Repo](https://github.com/1suleyman/-Terraform-Remote-State-Lab-Using-MinIO-S3-Backend-/tree/main) | DynamoDB table schema, primary/hash key setup, attribute types (S/N/B), terraform state inspection, table item insertion |
 | 2         | Coming soon… | 📂 [Repo]() | e.g. S3 backend               |
 | 3         | Coming soon… | 📂 Folder | e.g. remote state lab         |
 | 4         | Coming soon… | 📂 Folder | e.g. state commands           |
