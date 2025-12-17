@@ -92,10 +92,7 @@ By completing this course, I’ll develop hands-on skills in:
 | Challenge | Title        | Link      | Key Skill                     |
 | --------- | ------------ | --------- | ----------------------------- |
 | 1         | ☁️ Terraform Remote State Lab (Using MinIO S3 Backend) | 📂 [Repo](https://github.com/1suleyman/-Terraform-Remote-State-Lab-Using-MinIO-S3-Backend-/tree/main) | DynamoDB table schema, primary/hash key setup, attribute types (S/N/B), terraform state inspection, table item insertion |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. S3 backend               |
-| 3         | Coming soon… | 📂 Folder | e.g. remote state lab         |
-| 4         | Coming soon… | 📂 Folder | e.g. state commands           |
-| 5         | Coming soon… | 📂 Folder | e.g. state command lab        |
+| 2         | 🧩 Terraform State Commands Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-State-Commands-Lab/tree/main) | state inspection, state show/list, removing resources, renaming with state mv, remote vs local state behavior |
 
 ---
 
