@@ -101,12 +101,6 @@ By completing this course, I’ll develop hands-on skills in:
 | Challenge | Title        | Link      | Key Skill                            |
 | --------- | ------------ | --------- | ------------------------------------ |
 | 1         | 🚀 AWS EC2 + Provisioners Lab (Terraform) | 📂 [Repo](https://github.com/1suleyman/-AWS-EC2-Provisioners-Lab-Terraform-/tree/main) | EC2 provisioning, SSH key pairs, user_data behavior, provisioners (local-exec), Elastic IP association, dependencies |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. EC2 deploy demo                 |
-| 3         | Coming soon… | 📂 [Repo]() | e.g. EC2 with Terraform              |
-| 4         | Coming soon… | 📂 [Repo]() | e.g. Terraform provisioners          |
-| 5         | Coming soon… | 📂 Folder | e.g. provisioner behavior            |
-| 6         | Coming soon… | 📂 Folder | e.g. EC2 & provisioners lab          |
-| 7         | Coming soon… | 📂 Folder | e.g. best practices for provisioners |
 
 ---
 
@@ -114,7 +108,7 @@ By completing this course, I’ll develop hands-on skills in:
 
 | Challenge | Title        | Link      | Key Skill             |
 | --------- | ------------ | --------- | --------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. Terraform taint  |
+| 1         | 🛠️ Terraform Taint & Debugging Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Taint-Debugging-Lab/tree/main) | TF_LOG/TF_LOG_PATH debugging, log levels, taint vs untaint, forced replacement behavior, EC2 demo |
 | 2         | Coming soon… | 📂 [Repo]() | e.g. debugging        |
 | 3         | Coming soon… | 📂 [Repo]() | e.g. taint/debug lab  |
 | 4         | Coming soon… | 📂 Folder | e.g. Terraform import |
