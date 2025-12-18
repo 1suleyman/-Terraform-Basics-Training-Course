@@ -104,19 +104,16 @@ By completing this course, I’ll develop hands-on skills in:
 
 ---
 
-### 🔹 Module 9: Import, Tainting & Debugging
+### 🔹 Module 8: Import, Tainting & Debugging
 
 | Challenge | Title        | Link      | Key Skill             |
 | --------- | ------------ | --------- | --------------------- |
 | 1         | 🛠️ Terraform Taint & Debugging Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Taint-Debugging-Lab/tree/main) | TF_LOG/TF_LOG_PATH debugging, log levels, taint vs untaint, forced replacement behavior, EC2 demo |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. debugging        |
-| 3         | Coming soon… | 📂 [Repo]() | e.g. taint/debug lab  |
-| 4         | Coming soon… | 📂 Folder | e.g. Terraform import |
-| 5         | Coming soon… | 📂 Folder | e.g. import lab       |
+| 2         | 🧩 Terraform Import Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Import-Lab/tree/main) | importing external AWS resources, placeholder blocks, state inspection, aws cli describe, drift matching |
 
 ---
 
-### 🔹 Module 10: Terraform Modules
+### 🔹 Module 9: Terraform Modules
 
 | Challenge | Title        | Link      | Key Skill                     |
 | --------- | ------------ | --------- | ----------------------------- |
@@ -127,7 +124,7 @@ By completing this course, I’ll develop hands-on skills in:
 
 ---
 
-### 🔹 Module 11: Terraform Functions & Conditionals
+### 🔹 Module 10: Terraform Functions & Conditionals
 
 | Challenge | Title        | Link      | Key Skill                           |
 | --------- | ------------ | --------- | ----------------------------------- |
