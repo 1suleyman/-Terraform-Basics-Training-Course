@@ -117,10 +117,7 @@ By completing this course, I’ll develop hands-on skills in:
 
 | Challenge | Title        | Link      | Key Skill                     |
 | --------- | ------------ | --------- | ----------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. what modules are         |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. creating & using modules |
-| 3         | Coming soon… | 📂 Folder | e.g. using registry modules   |
-| 4         | Coming soon… | 📂 Folder | e.g. module lab               |
+| 1         | 🧩 Terraform Modules Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Modules-Lab/tree/main) | registry module usage, required vs optional inputs, module defaults, disabling internal resources, reading module docs & plans |
 
 ---
 
