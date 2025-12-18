@@ -96,11 +96,11 @@ By completing this course, I’ll develop hands-on skills in:
 
 ---
 
-### 🔹 Module 8: Terraform Provisioners
+### 🔹 Module 7: Terraform Provisioners
 
 | Challenge | Title        | Link      | Key Skill                            |
 | --------- | ------------ | --------- | ------------------------------------ |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. EC2 intro                       |
+| 1         | 🚀 AWS EC2 + Provisioners Lab (Terraform) | 📂 [Repo](https://github.com/1suleyman/-AWS-EC2-Provisioners-Lab-Terraform-/tree/main) | EC2 provisioning, SSH key pairs, user_data behavior, provisioners (local-exec), Elastic IP association, dependencies |
 | 2         | Coming soon… | 📂 [Repo]() | e.g. EC2 deploy demo                 |
 | 3         | Coming soon… | 📂 [Repo]() | e.g. EC2 with Terraform              |
 | 4         | Coming soon… | 📂 [Repo]() | e.g. Terraform provisioners          |
