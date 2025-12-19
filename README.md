@@ -125,7 +125,7 @@ By completing this course, I’ll develop hands-on skills in:
 
 | Challenge | Title        | Link      | Key Skill                           |
 | --------- | ------------ | --------- | ----------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. additional Terraform functions |
+| 1         | 🧩 Terraform Functions & Conditional Expressions Lab | 📂 [Repo](https://github.com/1suleyman/-Terraform-Functions-Conditional-Expressions-Lab/tree/main) | terraform console usage, built-in functions, type conversion with split, count vs for_each, conditional expressions, dynamic logic |
 | 2         | Coming soon… | 📂 [Repo]() | e.g. conditionals                   |
 | 3         | Coming soon… | 📂 [Repo]() | e.g. functions & conditionals lab   |
 | 4         | Coming soon… | 📂 Folder | e.g. Terraform workspaces           |
